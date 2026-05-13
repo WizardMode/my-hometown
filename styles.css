@@ -88,3 +88,36 @@ body {
 .activity-img:hover {
     border-radius: 5%;
 }
+
+.guide-section {
+    background-image: url("images/santa-monica.jpg");
+    background-size: cover;
+    background-position: center 35%;
+    width: calc( 100% - 20px );
+    aspect-ratio: 18 / 8;
+    margin: 0 auto 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 40px;
+}
+
+.guide-card {
+    background-color: goldenrod;
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    border-radius: 8px;
+    border-bottom: solid #121212 10px;
+}
+
+.guide-card-img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.guide-card-text {
+    max-width: 175px;
+}
