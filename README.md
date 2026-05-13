@@ -2,6 +2,10 @@
 
 A Los Angeles themed landing page built with HTML and CSS.
 
+## Live Demo
+
+🔗 https://wizardmode.github.io/my-hometown/
+
 ## Features
 
 - Hero section
